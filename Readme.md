@@ -1,5 +1,5 @@
 # Huan Chen's New Homework #5 (in huanchen1107/aiot_hw5)
-# hi
+
 ## Lecture 14: IoT Flask Web (github, vs code)
 
 ### Step 1 : Development Environment Setup in aiot_hw5
@@ -17,8 +17,8 @@
 7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
 
 if you want to change
-git remote add origin https://github.com/huanchen1107/aiot_hw5.git
-git branch -M main
+git remote add origin https://github.com/huanchen1107/aiot_hw5.git\
+git branch -M main\
 git push -u origin main
 
 
