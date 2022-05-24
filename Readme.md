@@ -17,7 +17,7 @@
 7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
 
 if you want to change
-git remote add origin https://github.com/huanchen1107/aiot_hw5.git\
+git remote add origin https://github.com/huanchen1107/aiot_hw5.git \
 git branch -M main\
 git push -u origin main
 
