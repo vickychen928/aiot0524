@@ -11,8 +11,8 @@
   * 快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)
   * 快捷鍵 ctrl+' ==> 叫出終端機 
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
-   * C:> git config --global user.name "Huan Chen"
-   * C:> git config --global user.email huanchen1107@gmail.com
+   * C:> git config --global user.name "vickychen928"
+   * C:> git config --global user.email vicky022038@gmail.com
    
 7. C:> git remote add origin https://github.com/huanchen1107/aiot_0524.git 
 
@@ -20,6 +20,7 @@
   git remote add origin https://github.com/huanchen1107/aiot_0524.git \
   git branch -M main\
   git push -u origin main
+  
 
 
 
