@@ -1,7 +1,7 @@
 # Huan Chen's Homework #5 
+## Lecture 14: IoT Flask Web (github, vs code)
 ### branch : step 2 (simple flask)
 
-## Lecture 14: IoT Flask Web (github, vs code)
 ### Development Environment Setup
 1. Please install vs code, register github, install git for windows
 2. (check-point 1) github create a new repository (aiot0524)
