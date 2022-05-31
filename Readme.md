@@ -1,5 +1,4 @@
-# Huan Chen's New Homework #5.02 (in huanchen1107/aiot_hw5)
-
+# Homework #5
 ## Lecture 14: IoT Flask Web (github, vs code)
 
 ### Step 1 : Development Environment Setup in aiot_hw5
